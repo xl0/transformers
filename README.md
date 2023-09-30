@@ -9,6 +9,12 @@
 
 
 ### 23/09/2023
-- [ ] Clean up Bigram model
+- [x] Clean up Bigram model
 - [ ] Minimal transformer
+
+### 30/09/2023
+- [x] Generator function
+- [ ] Minimal transformer
+
+
 
